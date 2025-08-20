@@ -1,1 +1,1 @@
-Registration form
+<br>Registration form
